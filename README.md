@@ -2,7 +2,7 @@
 
 소중한 파일을, 다시. Windows USB·외장디스크에서 삭제되거나 빠른 포맷 후 남아 있는 파일을 찾는 복구 도구입니다. **검사와 복구는 무료**, 후원은 선택 사항입니다. [English](README.en.md)
 
-최초 설치 파일을 게시하고 있습니다. [릴리스 목록](https://github.com/selzystudio-01/Reva/releases)에서 게시 상태를 확인하세요.
+[Windows x64 설치 파일](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva_1.0.3_x64-setup.exe) · [전체 포터블 ZIP](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva_1.0.3_portable.zip) · [코덱 대응 소스](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva-codec-sources-1.0.3.zip)
 
 Windows 10 2004 이상 또는 Windows 11 **x64**, Microsoft Edge WebView2 Runtime이 필요합니다. 설치기는 런타임이 없으면 Microsoft에서 다운로드할 수 있습니다. 실제 장치의 원시 읽기는 관리자 권한이 필요합니다.
 

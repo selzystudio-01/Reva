@@ -2,7 +2,7 @@
 
 Find files left on USB and external disks after deletion or a quick format. **Scanning and recovery are free.** Donations are optional. [한국어](README.md)
 
-The first download is being prepared. See [Releases](https://github.com/selzystudio-01/Reva/releases) for its publication status.
+[Windows x64 installer](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva_1.0.3_x64-setup.exe) · [Full portable ZIP](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva_1.0.3_portable.zip) · [Codec corresponding source](https://github.com/selzystudio-01/Reva/releases/download/v1.0.3/Reva-codec-sources-1.0.3.zip)
 
 Requires Windows 10 version 2004 or later / Windows 11 x64 and Microsoft Edge WebView2 Runtime. The installer may download that runtime from Microsoft. Raw device access requires administrator permission. Choose deleted-record or deep scanning, inspect results with categories, search, list/tile views and supported previews, then save to **another physical disk**. Do not write to the recovery source.
 
