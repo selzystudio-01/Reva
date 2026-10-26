@@ -1,0 +1,10 @@
+src/
+src-tauri/
+crates/
+artifacts/
+target/
+.env*
+*.key
+*.dpapi
+*.pfx
+release-config.local.json
